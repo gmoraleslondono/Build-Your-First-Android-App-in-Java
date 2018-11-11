@@ -13,6 +13,7 @@ This project was developed following the tutorial [Build Your First Android App 
 ## Prerequisites
 
 * Knowlege about Java programming lenguaje.
+* Download [Java JRE](https://www.java.com/en/download/)
 * Download [Android Studio](https://developer.android.com/studio/)
 
 ## Screenshots
